@@ -33,8 +33,3 @@ The idea was completely taken from [Pancake Patcher](https://gamebanana.com/tool
 3. Click "Save patch" to create a file that you will be able to use to bring your edits back to the editor, in the event of a content update resetting everything.
 4. If you want to add your additions to an existing patch, open the existing one in the Add to Patch button.
 5. Press save, and overwrite content_v2.gdata. This will add all the changes currently in the GUI to the game.
-
-## TODO:
-- rewrite all legacy code, do full logging 
-- add comments
-- theme switcher (maybe in v1.2)
