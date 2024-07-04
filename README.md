@@ -14,7 +14,7 @@
 > Use at your own risk, I am not responsible for possible bans.
 
 ## Introduction
-srepene Patcher is a program that allows you to modify any strings in the Fall Guys game, and then save them to a content_v2 or .ptch file, using a GUI. The content_v2 editing is used to change strings, and does not trigger EAC. 
+srepene Patcher is a program that allows you to modify any strings in the Fall Guys game, and then save them to a content_v2 or .ptch file, using a PyQT5 GUI. The content_v2 editing is used to change strings, and does not trigger EAC. 
 
 .ptch files are used to save the changed strings, so that after updating content_v2 you don't have to do it all over again, just apply your .ptch file
 
