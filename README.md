@@ -37,4 +37,4 @@ The idea was completely taken from [Pancake Patcher](https://gamebanana.com/tool
 ## TODO:
 - rewrite all legacy code, do full logging 
 - add comments
-- theme switcher (maybe)
+- theme switcher (maybe in v1.2)
