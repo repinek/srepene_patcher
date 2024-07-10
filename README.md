@@ -2,7 +2,8 @@
 <div align="center">
 
 # srepene Patcher
-<img src="https://github.com/repinek/srepene_patcher/assets/137826826/bb1be8ea-2121-4745-8bba-0383009159d8" width="600" height="360"/> <br>
+<img src="https://github.com/repinek/srepene_patcher/assets/137826826/bb1be8ea-2121-4745-8bba-0383009159d8" width="600" height="360"/>
+
 ### Change the text in Fall Guys easily
 </div>
 
@@ -14,12 +15,19 @@
 > Use at your own risk, I am not responsible for possible bans.
 
 ## Introduction
-srepene Patcher is a program that allows you to modify any strings in the Fall Guys game, and then save them to a content_v2 or .ptch file, using a PyQT5 GUI. The content_v2 editing is used to change strings, and does not trigger EAC. 
-
-.ptch files are used to save the changed strings, so that after updating content_v2 you don't have to do it all over again, just apply your .ptch file
+srepene Patcher is a program that allows you to modify any strings in the Fall Guys game, and then save them to a content_v2 or .ptch file, using a PyQT5 GUI.
 
 The idea was completely taken from [Pancake Patcher](https://gamebanana.com/tools/7382), also patches from Pancake Patcher can be applied by srepene Patcher as well.
 
+## Q&A
+**Q**: Can i get banned for this? <br>
+**A**: There have been no reported cases of a player being banned for editing content_v2, neither has it been tracked in any way. In any case, the creator has nothing to do. Use at your own risk
+
+**Q**: What are patches and what are they for? <br>
+**A**: .ptch files are used to save the changed strings, so that after updating content_v2 you don't have to do it all over again, just apply your .ptch file
+
+**Q**: How exactly does it modify the strings? <br>
+**A**: The content_v2 editing is used to change strings, and does not trigger EAC. 
 ## Features 
 - Decode v2 content and view strings directly from the GUI
 - Search strings by id and text
