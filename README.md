@@ -7,13 +7,6 @@
 ### Change the text in Fall Guys easily
 </div>
 
-## Note
-> [!WARNING]  
-> 
-> MediaTonic has never banned for changed text, but there's always a chance it could happen.
->
-> Use at your own risk, I am not responsible for possible bans.
-
 ## Introduction
 srepene Patcher is a program that allows you to modify any strings in the Fall Guys game, and then save them to a content_v2 or .ptch file, using a PyQT5 GUI.
 
@@ -28,12 +21,14 @@ The idea was completely taken from [Pancake Patcher](https://gamebanana.com/tool
 
 **Q**: How exactly does it modify the strings? <br>
 **A**: The content_v2 editing is used to change strings, and does not trigger EAC. 
+
 ## Features 
 - Decode v2 content and view strings directly from the GUI
 - Search strings by id and text
 - Modify string texts and save the changes to the encoded content v2 file
 - Save changes to a .ptch file
 - Apply changes from a .ptch file 
+- Open a second .gdata file, may be useful
 
 ## To use:
 1. Open the content_v2.gdata (It is located at the path C:\Users\YOURNAME\Appdata\LocalLow\Mediatonic\FallGuys_client\)
