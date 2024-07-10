@@ -2,7 +2,7 @@
 <div align="center">
 
 # srepene Patcher
-<img src="https://github.com/repinek/srepene_patcher/assets/137826826/b480e149-8bd5-40e2-a26f-313eb78b5191" width="600" height="360"/> <br>
+<img src="https://github.com/repinek/srepene_patcher/assets/137826826/bb1be8ea-2121-4745-8bba-0383009159d8" width="600" height="360"/> <br>
 ### Change the text in Fall Guys easily
 </div>
 
